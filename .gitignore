@@ -2,3 +2,5 @@ __MACOSX
 venv
 variant-4.zip
 dataset
+.data/
+.venv
